@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="Nottah_AutoReloadCrossbows" />
+    <DisplayName value="Nottah Auto Reload Crossbows" />
+    <Description value="Automatically begins the normal reload after firing an iron or compound crossbow. Install on the server and every client." />
+    <Author value="Nottah" />
+    <Version value="1.0.2" />
+</xml>

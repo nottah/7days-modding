@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <append xpath="/recipes">
+        <recipe name="resourceDuctTape" count="1" tags="packMuleCrafting">
+            <ingredient name="resourceGlue" count="1" />
+            <ingredient name="medicalBandage" count="1" />
+        </recipe>
+    </append>
+</configs>

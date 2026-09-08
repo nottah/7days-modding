@@ -1,0 +1,15 @@
+# Vanilla 7 Days to Die XML reference files
+/7days_3.2_conf_xml/
+
+# Ignore all Mods by default
+/Mods/*
+
+# Include only Nottah-authored mods
+!/Mods/Nottah_*/
+!/Mods/Nottah_*/**
+
+# OS/editor junk
+.DS_Store
+*~
+*.swp
+*.tmp

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="Nottah_DualAttributeMods" />
+    <DisplayName value="Nottah Dual Attribute Mods" />
+    <Description value="Allows vanilla attribute helmet mods to be installed in chest armor, enabling hybrid builds with one attribute mod in each slot." />
+    <Author value="Nottah" />
+    <Version value="1.0.0" />
+    <ServerSideOnly value="true" />
+</xml>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="Nottah_CraftableNightVision" />
+    <DisplayName value="Nottah Craftable Night Vision" />
+    <Description value="Adds an expensive workbench recipe for the vanilla Night Vision Goggles helmet modification." />
+    <Author value="Nottah" />
+    <Version value="1.0.0" />
+    <ServerSideOnly value="true" />
+</xml>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <set xpath="/item_modifiers/item_modifier[@name='modArmorPerception']/@installable_tags">armorHead,armorChest</set>
+    <set xpath="/item_modifiers/item_modifier[@name='modArmorStrength']/@installable_tags">armorHead,armorChest</set>
+    <set xpath="/item_modifiers/item_modifier[@name='modArmorFortitude']/@installable_tags">armorHead,armorChest</set>
+    <set xpath="/item_modifiers/item_modifier[@name='modArmorAgility']/@installable_tags">armorHead,armorChest</set>
+    <set xpath="/item_modifiers/item_modifier[@name='modArmorIntellect']/@installable_tags">armorHead,armorChest</set>
+</configs>

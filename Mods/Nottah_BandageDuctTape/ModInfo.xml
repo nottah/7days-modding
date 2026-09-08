@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="Nottah_BandageDuctTape" />
+    <DisplayName value="Nottah Bandages to Duct Tape" />
+    <Description value="Adds an alternate duct tape recipe using one regular bandage and one glue." />
+    <Author value="Nottah" />
+    <Version value="1.0.0" />
+    <ServerSideOnly value="true" />
+</xml>

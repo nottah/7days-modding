@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <append xpath="/recipes">
+        <recipe name="modArmorNightVision" count="1" craft_time="120" craft_area="workbench" tags="workbenchCrafting">
+            <ingredient name="armorParts" count="1" />
+            <ingredient name="resourceElectricParts" count="20" />
+            <ingredient name="resourceHeadlight" count="2" />
+            <ingredient name="motionsensor" count="1" />
+            <ingredient name="resourceScrapPolymers" count="10" />
+        </recipe>
+    </append>
+</configs>

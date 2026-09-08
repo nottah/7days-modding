@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <set xpath="/items/item[@name='gunBowT1IronCrossbow']/property[@class='Action0']/property[@name='AutoReload']/@value">true</set>
+    <set xpath="/items/item[@name='gunBowT3CompoundCrossbow']/property[@class='Action0']/property[@name='AutoReload']/@value">true</set>
+</configs>

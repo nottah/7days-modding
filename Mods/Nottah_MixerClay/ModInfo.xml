@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="Nottah_MixerClay" />
+    <DisplayName value="Nottah Mixer Clay" />
+    <Description value="Adds cement mixer recipes that process crushed sand with clean or murky water into clay soil." />
+    <Author value="Nottah" />
+    <Version value="1.1.0" />
+    <ServerSideOnly value="true" />
+</xml>
