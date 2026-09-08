@@ -1,5 +1,7 @@
 # Nottah's 7 Days to Die Modlets
 
+**Compatibility: These modlets are designed for the 7 Days to Die 3.x branch and have been tested and confirmed working through v3.2 (b10).**
+
 Five XML modlets by **Nottah**, each available in its own folder under `Mods/`. Install whichever ones you want. The descriptions below are based on the folders' `ModInfo.xml` and `Config/*.xml` files.
 
 | Modlet folder | Version | What it does | Multiplayer installation |
@@ -90,4 +92,4 @@ To uninstall a modlet, close the game or stop the server, remove its folder from
 
 ## Compatibility
 
-The versions listed above are **modlet versions**. The metadata does not specify a supported game version. These descriptions reflect the checked-in XML; in-game behavior and compatibility with other mods have not been verified here. Crafting times are the values declared in the recipes and may be affected by game modifiers.
+The versions listed above are **modlet versions**. Game compatibility is stated at the top of this README. Compatibility with other mods has not been verified here. Crafting times are the values declared in the recipes and may be affected by game modifiers.
