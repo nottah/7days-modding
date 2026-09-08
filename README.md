@@ -93,3 +93,13 @@ To uninstall a modlet, close the game or stop the server, remove its folder from
 ## Compatibility
 
 The versions listed above are **modlet versions**. Game compatibility is stated at the top of this README. Compatibility with other mods has not been verified here. Crafting times are the values declared in the recipes and may be affected by game modifiers.
+
+## Credits and AI assistance
+
+- **Nottah** — Mod author and maintainer; responsible for design decisions,
+  in-game testing, and releases.
+- **OpenAI Codex (AI coding assistant)** — Assisted with reviewing the XML
+  modlets, writing repository documentation, and preparing repository updates.
+
+AI assistance is disclosed for transparency. Nottah reviews and approves
+changes and maintains responsibility for the project.
